@@ -230,7 +230,15 @@ Agencies shall:
 
  c) Information is managed with clearly designated roles and responsibilities to promote effective and efficient design and operation of information resources management processes within their agency.
 
-2) Agencies shall use these practices to:
+2) Agencies have a responsibility to provide information to the public consistent with their missions. Agencies will discharge this responsibility by:
+
+(a) Providing information, as required by law, describing agency organization, activities, programs, meetings, systems of records, and other information holdings, and how the public may gain access to agency information resources;
+
+(b) Providing access to agency records under provisions of the Freedom of Information Act and the Privacy Act, subject to the protections and limitations provided for in these Acts;
+
+(c) Providing such other information as is necessary or appropriate for the proper performance of agency functions.
+
+3) Agencies shall use these practices to:
 
  a) Collect or create information in a way that supports downstream interoperability among information systems and streamlines dissemination to the public, where appropriate, by:
  
@@ -240,13 +248,13 @@ Agencies shall:
   
   b) Ensure that the public has timely and equitable online access to the agency's public information using a manner that is informed directly by public engagement and balanced against the costs of dissemination or accessibility improvements and demonstrate usefulness of the information.
 
-3) Agencies shall ensure that the public can appropriately discover, and provide feedback about disseminated information and unreleased information by:
+4) Agencies shall ensure that the public can appropriately discover, and provide feedback about disseminated information and unreleased information by:
 
   a) Ensuring that data, wherever possible and legally permissible, are released to the public in ways that make the data easy to find, accessible, and usable; and
   
   b) Developing other aids as necessary to assist the public in locating agency information including catalogs and directories, site maps, search functions, and other means.
 
-4) Agencies shall ensure that the public can appropriately use disseminated information by:
+5) Agencies shall ensure that the public can appropriately use disseminated information by:
 
   a) Publishing information online in a machine-readable open format that can be retrieved, downloaded, indexed, and searched by commonly used web search applications and is public, accessible, described, reusable, complete, and timely. This includes providing such information in a format(s) accessible to employees and members of the public with disabilities.<sup id="fnr13"><a href="#fn13">13</a></sup> 
   
@@ -267,7 +275,7 @@ Agencies shall:
   
   f) Taking advantage of all dissemination channels, including Federal, State, local, tribal, territorial governments, libraries, nonprofit, and private sector entities, in discharging agency information dissemination responsibilities.
 
-5) Agencies shall manage information in accordance with the following principles:
+6) Agencies shall manage information in accordance with the following principles:
   
   a) Providing notice of Federal agency practices for the collection, use, maintenance, disclosure, dissemination, and destruction of records, as appropriate;
   
