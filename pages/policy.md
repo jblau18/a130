@@ -212,7 +212,7 @@ Agencies shall:
 
 2) Ensure that records management programs provide adequate and proper documentation of agency activities.
 
-3) Ensure the ability to access, retrieve, and manage records throughout their life cycle regardless of form or medium.
+3) Ensure the ability to access, retrieve, and manage records throughout their life cycle regardless of form or medium. Records help us claim our rights and entitlements, hold our elected officials accountable for their actions, and document our history as a nation. In short, NARA ensures continuing access to the essential documentation of the rights of American citizens and the actions of their Government.
 
 4) Establish and obtain the approval of the Archivist of the United States for retention schedules for Federal records in a timely fashion.
 
