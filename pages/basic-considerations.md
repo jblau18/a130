@@ -11,7 +11,7 @@ description: "Basic Considerations"
   
   b. The free flow of information between the government and the public is essential to a democratic society. It is essential that the government maximize the usefulness to the public of government information.
   
-  c. Because the public disclosure of government information is essential to the operation of a democracy, the management of Federal information resources should protect the public's right of access to government information
+  c. Because the public disclosure of government information is essential to the operation of a democracy, the management of Federal information resources should protect the public's right of access to government information.
   
   d. Government agencies have a responsibility to be open, transparent, and accountable to the public. Promoting openness and interoperability, subject to applicable legal and policy requirements increases operational efficiencies, reduces costs, improves services, supports mission needs, safeguards personally identifiable information, and increases public access to valuable Federal information.
   
