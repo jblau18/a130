@@ -9,6 +9,7 @@ description: "Basic Considerations"
 
   a. Federal information is both a strategic asset and a valuable national resource. It enables the performance of effective government missions and programs and provides the public with knowledge of the government, society, economy, and environment – past, present, and future. It is a means to ensure the accountability of government, to manage the government's operations, to maintain and enhance the healthy performance of the economy, as well as the general public health and a healthy social and physical environment.
   
+  
   b. Government agencies have a responsibility to be open, transparent, and accountable to the public. Promoting openness and interoperability, subject to applicable legal and policy requirements increases operational efficiencies, reduces costs, improves services, supports mission needs, safeguards personally identifiable information, and increases public access to valuable Federal information.
   
   c. The open and efficient exchange of scientific and technical Federal information, subject to applicable security and privacy controls and the proprietary rights of others, fosters excellence in scientific research and effective use of Federal research and development funds.
