@@ -80,6 +80,8 @@ In support of agency missions and business needs, and in coordination with progr
 
 5) Ensure that the CIO establishes and maintains a process to regularly engage with program managers to evaluate IT resources supporting each agency strategic objective. It should be the CIO and program managers' shared responsibility to ensure that legacy and on-going IT investments are appropriately delivering customer value and meeting the business objectives of programs.
 
+"6) Ensure that the CIO establishes and maintains a process to regularly engage with the public on agency information strategies and practices, which can include dissemination policies and practices.”  
+
 #### c. Leadership and Workforce
 
 Agencies shall:
