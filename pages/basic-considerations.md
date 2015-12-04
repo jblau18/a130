@@ -13,7 +13,7 @@ description: "Basic Considerations"
   
   c. The open and efficient exchange of scientific and technical Federal information, subject to applicable security and privacy controls and the proprietary rights of others, fosters excellence in scientific research and effective use of Federal research and development funds.
   
-  d. Making information resources easy to find, accessible, and usable can fuel entrepreneurship, innovation, and scientific discovery that improves the lives of Americans and contributes significantly to job creation.
+  d. Making information resources easy to find, accessible, and usable can fuel entrepreneurship, innovation, and scientific discovery that improves the lives of Americans and contributes significantly to job creation as well as foster public participation in government.
   
   e. Federal information must be protected like the strategic asset and valuable national resource that it is. Agencies must have information security programs that consider the risks and range of threats to information assets and implement controls to mitigate those risks to acceptable levels.
   
