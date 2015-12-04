@@ -263,7 +263,7 @@ Agencies shall:
   
   iv. Where the Director of OMB determines an exception is warranted.
 
-  e) Ensuring that government publications are made available to depository libraries through the Government Publishing Office.<sup id="fnr15"><a href="#fn15">15</a></sup> 
+  e) Ensuring that government publications are made available to depository libraries through the Government Publishing Office regardless of format.<sup id="fnr15"><a href="#fn15">15</a></sup> 
   
   f) Taking advantage of all dissemination channels, including Federal, State, local, tribal, territorial governments, libraries, nonprofit, and private sector entities, in discharging agency information dissemination responsibilities.
 
