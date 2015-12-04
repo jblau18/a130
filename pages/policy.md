@@ -226,7 +226,13 @@ Agencies shall:
 
  a) Information is managed throughout its life cycle to promote openness and interoperability, and to safeguard systems and information; this includes all stages through which the information passes, including: creating or collection, processing, maintenance, storage, use, sharing, dissemination, and disposition; and
 
- b) Information is managed with a presumption in favor of proactively making information accessible, discoverable, and usable by the public to the extent permitted by statute and subject to existing terms and conditions, privacy, security, and other valid restrictions pertaining to access, use, and dissemination; and
+ b) Information is managed with a presumption in favor of proactively making information accessible, discoverable, and usable by the public to the extent permitted by statute and subject to existing terms and conditions, privacy, security, and other valid restrictions pertaining to access, use, and dissemination; 
+ 
+  i. Agencies are required to proactively disclosure information when the agency official responsible for the information does not reasonably foresee that disclosure would harm an interest protected by an exemption described in subsection (b) of the Freedom of Information Act (5 U.S.C § 552). 
+  
+ii. Information and documents that are frequently requested by the public should be proactively released, including documents relating to health, safety and environmental issues. 
+
+iii. Agencies are required to adopt a presumption of disclosure and openness, by evaluating records with a view towards what can be disclosed, rather than what can be withheld. Agencies shall not withhold information simply because existing statutes allow the withholding of such information; and
 
  c) Information is managed with clearly designated roles and responsibilities to promote effective and efficient design and operation of information resources management processes within their agency.
 
